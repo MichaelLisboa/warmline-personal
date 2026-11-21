@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/stage-alpha-5b6470" alt="Alpha">
   </p>
   <p>
-    <a href="https://github.com/MichaelLisboa/warmline-personal/releases/download/v0.1.0/Warmline-Personal-0.1.0-windows.zip"><img src="assets/windows.svg" alt="Download for Windows" width="113"></a>
+    <a href="https://github.com/MichaelLisboa/warmline-personal/releases/download/v0.1.0/Warmline-Personal-0.1.0-windows.exe"><img src="assets/windows.svg" alt="Download for Windows" width="113"></a>
     <a href="https://github.com/MichaelLisboa/warmline-personal/releases/download/v0.1.0/Warmline-Personal-0.1.0-mac.pkg"><img src="assets/mac.svg" alt="Download for Mac" width="80"></a>
   </p>
 </div>
@@ -76,7 +76,7 @@ When it searches, it sends the job titles and places you approve. When it looks 
 
 | | Download | Runs on | Size |
 | --- | --- | --- | --- |
-| **Windows** | [Warmline-Personal-0.1.0-windows.zip](https://github.com/MichaelLisboa/warmline-personal/releases/download/v0.1.0/Warmline-Personal-0.1.0-windows.zip) | Windows 10 or 11, 64-bit | 82 MB |
+| **Windows** | [Warmline-Personal-0.1.0-windows.exe](https://github.com/MichaelLisboa/warmline-personal/releases/download/v0.1.0/Warmline-Personal-0.1.0-windows.exe) | Windows 10 or 11, 64-bit | 62 MB |
 | **Mac** | [Warmline-Personal-0.1.0-mac.pkg](https://github.com/MichaelLisboa/warmline-personal/releases/download/v0.1.0/Warmline-Personal-0.1.0-mac.pkg) | Apple silicon, macOS 13 or later | 85 MB |
 
 It's an alpha. Things will break.
@@ -85,7 +85,7 @@ It's an alpha. Things will break.
 
 The Windows version isn't signed yet, so Windows will ask if you're sure. You're sure.
 
-- **Windows.** Unzip the file first: it won't run from inside the zip. Open the **Warmline Personal** folder and double-click **Warmline Personal.exe**. If you see "Windows protected your PC", choose **More info**, then **Run anyway**.
+- **Windows.** Run the installer. If you see "Windows protected your PC", choose **More info**, then **Run anyway**.
 - **Mac.** Open the installer and it installs. It's signed and notarized by Apple.
 
 ## One more download
